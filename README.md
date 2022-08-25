@@ -7,6 +7,10 @@ I combine these skillsets to align the goals of people operations with business 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
 ## Projects
-1. Recruiting Activity Report  
-  * Automated clean up process of Workday report
-  * text
+####1. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
+* Automated clean up process of Workday report
+* text
+  
+*Tools*: Python (pandas, numpy)  
+  
+####2. 
