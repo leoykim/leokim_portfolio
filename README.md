@@ -6,3 +6,6 @@ I combine these skillsets to align the goals of people operations with business 
   
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
+## Projects
+1. Recruiting Activity Report
+tesxt
