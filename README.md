@@ -22,3 +22,5 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Outputs line graph of historical dividend payments and yield 
 
 ![graph](graph-dividend.png)
+  
+*Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas)
