@@ -12,7 +12,5 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * text
   
 *Tools*: Python (pandas, numpy)  
-  
-  
-  
+<br/>
 ####2. 
