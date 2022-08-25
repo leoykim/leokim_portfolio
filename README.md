@@ -8,5 +8,5 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 ## Projects
 1. Recruiting Activity Report  
-* Automated clean up process of Workday report
-* text
+  * Automated clean up process of Workday report
+  * text
