@@ -14,7 +14,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   * Correcting text
   * Rearranging columns
 * Exports updated Excel file
-[graph](graph-dividend.png)
+![graph](graph-dividend.png)
   
 *Tools*: Python (pandas, numpy)  
 <br/>
