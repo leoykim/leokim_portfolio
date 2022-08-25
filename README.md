@@ -14,9 +14,12 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   * Correcting text
   * Rearranging columns
 * Exports updated Excel file
-![graph](graph-dividend.png)
   
 *Tools*: Python (pandas, numpy)  
 <br/>
 <br/>
-#### 2. 
+#### 2. Stock Dividend Historical Graph
+* Enter ticker symbol of choice
+* Outputs line graph of historical dividend payments and yield 
+
+![graph](graph-dividend.png)
