@@ -17,12 +17,16 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Exports an updated Excel file
   
 *Tools*: Python (pandas, numpy)  
-
+  
+<br/>  
+  
 #### 2. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingDashboard_16517993039310/Story1?publish=yes)  
 * Designed dashboard to visualize recruiting activity
 * Categorized by division to review overall summary
 * Broken down by recruiters to manage workload management
 * 2nd page displays all reqs for each recruiter
+  
+*Tools*: Tableau  
   
 <br/>  
 
