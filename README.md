@@ -19,7 +19,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 *Tools*: Python (pandas, numpy)  
 
 <br/>
-#### 2. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)
+#### 2. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)  
 * Enter ticker symbol of choice
 * Outputs line graph of historical dividend payments and yield 
 
