@@ -11,9 +11,9 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Automated clean up process of Workday report:
   * Conditional filters
   * Xlookup
-  * Adjusting data types
-  * Correcting text
-  * Rearranging columns
+  * Adjust data types
+  * Correct text
+  * Rearrange columns
 * Exports an updated Excel file
   
 *Tools*: Python (pandas, numpy)  
