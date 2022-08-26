@@ -18,9 +18,15 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   
 *Tools*: Python (pandas, numpy)  
 
+#### 2. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingDashboard_16517993039310/Story1?publish=yes)  
+* Designed dashboard to visualize recruiting activity
+* Categorized by division to review overall summary
+* Broken down by recruiters to manage workload management
+* 2nd page displays all reqs for each recruiter
+  
 <br/>  
 
-#### 2. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
+#### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice
 * Outputs line graph of historical dividend payments and yield 
@@ -30,4 +36,5 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   
 Below: shorter time period selected and hover text displayed:  
 ![graph](graph-dividend-zoom-and-hover.png)  
-*Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas)
+*Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas) 
+  
