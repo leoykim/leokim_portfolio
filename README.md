@@ -23,7 +23,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Enter ticker symbol of choice
 * Outputs line graph of historical dividend payments and yield 
 
-![graph](graph-dividend.png)
+![graph](graph-dividend-.png)
   
   
 Below: shorter time period selected and hover text displayed:  
