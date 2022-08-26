@@ -27,11 +27,11 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * 2nd page displays all reqs for each recruiter ([link](https://public.tableau.com/views/RecruitingDashboard_16517993039310/ActiveReq?:language=en-US&:display_count=n&:origin=viz_share_link))
   
 <img src="https://i.imgur.com/ggQTCdt.png" width="800" height="600">  
+  
 *Tools*: Tableau  
   
 <br/>  
-<br/>  
-
+  
 #### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice
