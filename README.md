@@ -8,15 +8,16 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 ## Projects
 #### 1. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Automated clean up process of Workday report using:
+* Automated clean up process of Workday report:
   * Conditional filters
   * Xlookup
   * Adjusting data types
   * Correcting text
   * Rearranging columns
-* Exports updated Excel file
+* Exports an updated Excel file
   
 *Tools*: Python (pandas, numpy)  
+
 <br/>
 #### 2. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)
 * Enter ticker symbol of choice
