@@ -30,7 +30,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 *Tools*: Tableau  
   
 <br/>  
-  
+<br/>  
+
 #### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice
