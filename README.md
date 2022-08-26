@@ -40,7 +40,6 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 ![graph](graph-dividend-.png)
   
 <br/>  
-
 Below: shorter time period selected and hover text displayed:  
 ![graph](graph-dividend-zoom-and-hover.png)  
 *Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas) 
