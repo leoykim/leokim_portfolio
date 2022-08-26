@@ -26,7 +26,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Broken down by recruiters to manage workload management
 * 2nd page displays all reqs for each recruiter
   
-![](tableau-active-req-summary-dashboard.png | width=200)
+![](tableau-active-req-summary-dashboard.png)  
 *Tools*: Tableau  
   
 <br/>  
