@@ -23,8 +23,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 #### 2. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingDashboard_16517993039310/Story1?publish=yes)  
 * Designed dashboard to visualize recruiting activity
 * Categorized by division to review overall summary
-* Broken down by recruiters to manage workload management
-* 2nd page displays all reqs for each recruiter
+* Broken down by recruiters to view & manage workload
+* 2nd page displays all reqs for each recruiter (via link)
   
 <img src="https://i.imgur.com/ggQTCdt.png" width="800" height="600">  
 *Tools*: Tableau  
