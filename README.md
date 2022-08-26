@@ -8,8 +8,9 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 ## Projects
 #### 1. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Automated clean up process of Workday report
+* Automated clean up process of Workday report using:
   * Conditional filters
+  * Xlookup
   * Adjusting data types
   * Correcting text
   * Rearranging columns
