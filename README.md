@@ -22,8 +22,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   
 #### 2. [Recruiting Activity Dashboard](https://public.tableau.com/views/RecruitingDashboard_16517993039310/ActiveReq?:language=en-US&:display_count=n&:origin=viz_share_link)  
 * Designed dashboard to visualize recruiting activity
-* Categorized by division to review overall summary
 * Broken down by recruiters to view & manage workload
+* Categorized by 'days open status' to display aging reqs
 * 2nd page displays all reqs for each recruiter ([link](https://public.tableau.com/views/RecruitingDashboard_16517993039310/ActiveReq?:language=en-US&:display_count=n&:origin=viz_share_link))
   
 <img src="https://i.imgur.com/ggQTCdt.png" width="800" height="600">  
