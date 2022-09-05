@@ -26,7 +26,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Active reqs: summary of current open reqs to manage workload and actively support aging reqs
   
 <img src="https://i.imgur.com/NPlOFJg.png" width="712" height="400">  
-<img src="https://i.imgur.com/LBmZca2.png" width="800" height="600">  
+<img src="https://i.imgur.com/LBmZca2.png" width="712" height="400">  
   
 *Tools*: Tableau  
   
