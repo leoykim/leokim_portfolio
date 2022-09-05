@@ -25,7 +25,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * New hires: displays ytd progression and monthly totals
 * Active reqs: summary of current open reqs to manage workload and actively support aging reqs
   
-<img src="https://i.imgur.com/ggQTCdt.png" width="800" height="600">  
+<img src="https://i.imgur.com/NPlOFJg.png="800" height="600">  
+<img src="https://i.imgur.com/LBmZca2.png="800" height="600">  
   
 *Tools*: Tableau  
   
