@@ -29,7 +29,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 <img src="https://i.imgur.com/gLO9mwL.png" width="712" height="400">  
 <img src="https://i.imgur.com/LBmZca2.png" width="712" height="400">  
   
-*Tools*: Tableau  
+*Tools*: Tableau, Photoshop  
   
 <br/>  
   
