@@ -8,7 +8,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 ## Projects
 #### 1. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Designed to automate data clean up process of Workday report:
+* Automated data cleanup process of Workday report by designing Python code:
   * Conditional filters
   * Xlookup
   * Adjust data types
@@ -34,7 +34,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 <br/>  
 
 #### 3. [Time to Fill Presentation](https://drive.google.com/file/d/1Ro9qy6V9RGSqly-obQCO1blFDe86Rbka/view?usp=sharing)  
-* Designed Time to Fill presentation to break down averages of each stage in the receruiting process
+* Designed Time to Fill presentation to break down averages of each stage in the recruiting process
 * Used sample data for purpose of demonstration
   
 <img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
@@ -47,8 +47,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 #### 4. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
-* Enter ticker symbol of choice
-* Outputs line graph of historical dividend payments and yield 
+* Enter ticker symbol of choice to see dividend data 
 
 ![graph](graph-dividend-.png)
 
