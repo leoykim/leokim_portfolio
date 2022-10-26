@@ -32,8 +32,20 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 *Tools*: Tableau, Photoshop  
   
 <br/>  
+
+#### 3. [Time to Fill Presentation](https://drive.google.com/file/d/1oW8zNvqjA3vcHGeMSSgQuQgbrrjMBImZ/view?usp=sharing)  
+* Designed Time to Fill presentation to break down averages
+* Used sample data for purpose of demonstration
   
-#### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
+<img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
+<img src="https://imgur.com/tCdaiva.png" width="712" height="400">
+<img src="https://imgur.com/zuibl5N.png" width="712" height="400">
+
+*Tools*: PowerPoint  
+  
+<br/>  
+
+#### 4. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice
 * Outputs line graph of historical dividend payments and yield 
@@ -48,14 +60,3 @@ Below: shorter time period selected and hover text displayed:
  
 <br/>  
   
-#### 4. [Time to Fill Presentation](https://drive.google.com/file/d/1oW8zNvqjA3vcHGeMSSgQuQgbrrjMBImZ/view?usp=sharing)  
-* Designed Time to Fill presentation to break down 
-* All numbers are sample data
-  
-<img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
-<img src="https://imgur.com/tCdaiva.png" width="712" height="400">
-<img src="https://imgur.com/zuibl5N.png" width="712" height="400">
-
-*Tools*: PowerPoint  
-  
-<br/>  
