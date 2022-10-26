@@ -33,13 +33,13 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
   
 <br/>  
 
-#### 3. [Time to Fill Presentation](https://drive.google.com/file/d/1oW8zNvqjA3vcHGeMSSgQuQgbrrjMBImZ/view?usp=sharing)  
+#### 3. [Time to Fill Presentation](https://drive.google.com/file/d/1Ro9qy6V9RGSqly-obQCO1blFDe86Rbka/view?usp=sharing)  
 * Designed Time to Fill presentation to break down averages of each stage in the receruiting process
 * Used sample data for purpose of demonstration
   
 <img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
 <img src="https://imgur.com/tCdaiva.png" width="712" height="400">
-<img src="https://imgur.com/zuibl5N.png" width="712" height="400">
+<img src="https://imgur.com/Bf9F5S3.png" width="712" height="400">
 
 *Tools*: PowerPoint  
   
