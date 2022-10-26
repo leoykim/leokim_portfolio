@@ -46,3 +46,16 @@ Below: shorter time period selected and hover text displayed:
 ![graph](graph-dividend-zoom-and-hover.png)  
 *Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas) 
  
+<br/>  
+  
+#### 4. [Time to Fill Presentation](https://drive.google.com/file/d/1oW8zNvqjA3vcHGeMSSgQuQgbrrjMBImZ/view?usp=sharing)  
+* Designed Time to Fill presentation to break down 
+* All numbers are sample data
+  
+<img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
+<img src="https://imgur.com/tCdaiva.png" width="712" height="400">
+<img src="https://imgur.com/zuibl5N.png" width="712" height="400">
+
+*Tools*: PowerPoint  
+  
+<br/>  
