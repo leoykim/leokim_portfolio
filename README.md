@@ -32,20 +32,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 *Tools*: Tableau, Photoshop  
   
 <br/>  
-
-#### 3. [Time to Fill Presentation](https://drive.google.com/file/d/1vHGykUiz0gZqzZOWX4Qebuy1IlQ2TK7L/view?usp=sharing)  
-* Designed Time to Fill presentation to break down averages of each stage in the recruiting process
-* Used sample data for purpose of demonstration
   
-<img src="https://i.imgur.com/EEhrdJi.png" width="712" height="400">  
-<img src="https://imgur.com/L8xbWLi.png" width="712" height="400">
-<img src="https://imgur.com/Bf9F5S3.png" width="712" height="400">
-
-*Tools*: PowerPoint  
-  
-<br/>  
-
-#### 4. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
+#### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice to see dividend data 
 
