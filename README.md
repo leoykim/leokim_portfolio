@@ -8,8 +8,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 ## Projects
 #### 1. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingActivity/dashmain?publish=yes)  
-* Designed dashboard to visualize recruiting activity
-* New hires: displays ytd progression and monthly totals
+* Created dashboard to visualize recruiting activity
+** New hires: displays ytd progression and monthly totals
 * Active reqs: summary of current open reqs to actively manage workload and support aging reqs
   
 <img src="https://i.imgur.com/NPlOFJg.png" width="712" height="400">  
