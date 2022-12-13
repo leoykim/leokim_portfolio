@@ -22,7 +22,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 
 
 #### 2. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Automated data cleanup process of Workday report by designing Python code:
+* Automated data cleanup process of Workday report by writing Python code that include:
   * Conditional filters
   * Xlookup
   * Adjust data types
