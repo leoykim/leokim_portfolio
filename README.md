@@ -7,20 +7,7 @@ I combine these skillsets to align the goals of people operations with business 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
 ## Projects
-#### 1. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Automated data cleanup process of Workday report by designing Python code:
-  * Conditional filters
-  * Xlookup
-  * Adjust data types
-  * Correct text
-  * Rearrange columns
-* Exports an updated Excel file
-  
-*Tools*: Python (pandas, numpy)  
-  
-<br/>  
-  
-#### 2. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingActivity/dashmain?publish=yes)  
+#### 1. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingActivity/dashmain?publish=yes)  
 * Designed dashboard to visualize recruiting activity
 * New hires: displays ytd progression and monthly totals
 * Active reqs: summary of current open reqs to actively manage workload and support aging reqs
@@ -32,6 +19,21 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 *Tools*: Tableau, Photoshop  
   
 <br/>  
+
+
+#### 2. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
+* Automated data cleanup process of Workday report by designing Python code:
+  * Conditional filters
+  * Xlookup
+  * Adjust data types
+  * Correct text
+  * Rearrange columns
+* Exports an updated Excel file
+  
+*Tools*: Python (pandas, numpy)  
+  
+<br/>  
+
   
 #### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Designed to visualize historical data of dividend payment and yield
