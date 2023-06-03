@@ -16,7 +16,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 <img src="https://i.imgur.com/ie5Gg9B.png" width="712" height="400">  
 <img src="https://i.imgur.com/LBmZca2.png" width="712" height="400">  
   
-*Tools*: Tableau, Photoshop  
+*Tools*: Tableau  
   
 <br/>  
 
