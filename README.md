@@ -12,7 +12,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 * Grew page from 0 to +20k followers
   Create 2 rows by 3 collage then up imgur for link
 
-<img src="https://imgur.com/a/3hyv9yj.png" width="712" height="482">  
+<img src="https://i.imgur.com/3hyv9yj.png" width="712" height="482">  
 
 *Tools*: Excel, Photoshop  
   
