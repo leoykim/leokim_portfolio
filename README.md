@@ -11,7 +11,7 @@ Below are samples of my personal and professional projects😃
 ## Projects
 #### 1. [Gaming Infographic](https://imgur.com/a/6DYCkBW)
 * Designed data graphics for [Valorant.Stats](https://www.instagram.com/valorant.stats/) on Instagram
-* Grew page from 0 to +20k followers
+* Grew page from 0 to 20k+ followers
 * Below are few examples of data visuals on pro player profile, ability details, tournament highlights, etc
 
 <img src="https://i.imgur.com/iuSMyyE.jpg" width="712" height="482">  
