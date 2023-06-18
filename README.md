@@ -1,10 +1,12 @@
 # Data Analytics Portfolio  
   
 ## About Me  
-Hi! I bring value through analytic skills (Python, Tableau, Excel) and system expertise (Workday, Greenhouse).  
+Hi! I'm a data professional with analytic skills (Python, Tableau, Excel) and system expertise (Workday and Greenhouse).  
 I combine these skillsets to align the goals of people operations with business values.  
   
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
+
+Below are examples of my personal and professional projects :D😁
 
 ## Projects
 #### 1. [Gaming Infographic](https://imgur.com/a/6DYCkBW)
