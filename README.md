@@ -7,7 +7,19 @@ I combine these skillsets to align the goals of people operations with business 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
 ## Projects
-#### 1. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingActivity/dashmain?publish=yes)  
+#### 1. [Gaming Infographic](https://imgur.com/a/6DYCkBW)
+* Designed data infographics for Valorant.Stats on Instagram
+* Grew page from 0 to +20k followers
+  Create 2 rows by 3 collage then up imgur for link
+
+<img src="https://imgur.com/a/3hyv9yj.jpg" width="712" height="482">  
+
+*Tools*: Excel, Photoshop  
+  
+<br/>  
+
+
+#### 2. [Recruiting Activity Dashboard](https://public.tableau.com/app/profile/leo7559/viz/RecruitingActivity/dashmain?publish=yes)  
 * Created dashboard to visualize recruiting activity
  * New hires: displays ytd progression and monthly totals
 * Active reqs: summary of current open reqs to actively manage workload and support aging reqs
@@ -21,7 +33,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 <br/>  
 
 
-#### 2. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
+#### 3. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
 * Automated data cleanup process of Workday report by writing Python code that include:
   * Conditional filters
   * Xlookup
@@ -35,7 +47,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 <br/>  
 
   
-#### 3. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
+#### 4. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
 * Pull data from Yahoo Finance to visualize historical data of dividend payment and yield
 * Enter ticker symbol of choice to see dividend data 
 
