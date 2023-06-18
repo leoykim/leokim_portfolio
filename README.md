@@ -6,17 +6,17 @@ I combine these skillsets to align the goals of people operations with business 
   
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
-Below are examples of my personal and professional projects :D😁
+Below are samples of my personal and professional projects😃
 
 ## Projects
 #### 1. [Gaming Infographic](https://imgur.com/a/6DYCkBW)
-* Designed data infographics for Valorant.Stats on Instagram
+* Designed data graphics for Valorant.Stats on Instagram
 * Grew page from 0 to +20k followers
 * Below are few examples of data visuals on pro player profile, ability details, tournament highlights, etc
 
 <img src="https://i.imgur.com/iuSMyyE.jpg" width="712" height="482">  
 
-*Tools*: Excel, Photoshop  
+*Tools*: Excel, Photoshop
   
 <br/>  
 
