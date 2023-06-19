@@ -3,7 +3,7 @@
 ## About Me  
 Hi! I'm a data professional with analytic skills (Python, Tableau, Excel) and system expertise primarily in the People space (Workday, Greenhouse). I combine these skillsets to align the goals of people operations with business values.  
   
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
+Reach me at [LinkedIn](https://www.linkedin.com/in/leoykim/)!  
 
 Below are samples of my personal and professional projects😃
 
