@@ -48,17 +48,3 @@ Below are samples of my personal and professional projects😃
 <br/>  
 
   
-#### 4. [Stock Dividend Historical Graph](https://github.com/leoykim/yahoo-finance-dividend-analysis)   
-* Pull data from Yahoo Finance to visualize historical data of dividend payment and yield
-* Enter ticker symbol of choice to see dividend data 
-
-![graph](graph-dividend-.png)
-
-<br/>  
-
-Below: shorter time period selected and hover text displayed:  
-![graph](graph-dividend-zoom-and-hover.png)  
-*Tools*: Python (Yahoo Finance API, matplotlib, plotly, pandas) 
- 
-<br/>  
-  
