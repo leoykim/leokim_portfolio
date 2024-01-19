@@ -35,7 +35,7 @@ Below are samples of my personal and professional projects😃
 
 
 #### 3. [Recruiting Activity Report](https://github.com/leoykim/TA-Jobs-Summary-Workday-Cleanup)  
-* Automated data cleanup process of Workday report by writing Python code that include:
+* Used Python to clean up data from Workday. Functions include:
   * Conditional filters
   * Xlookup
   * Adjust data types
