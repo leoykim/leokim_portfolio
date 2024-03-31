@@ -11,7 +11,7 @@ Below are samples of my personal and professional projects😃
 #### 1. [Operations Dashboard](https://i.imgur.com/wgolhRc.png)
 * Sample dashboard to visualize invoice details
 
-<img src:"https://i.imgur.com/wgolhRc.png" width="712" height="482">  
+<img src="https://i.imgur.com/wgolhRc.png" width="712" height="482">  
 
 *Tools*: Excel
   
