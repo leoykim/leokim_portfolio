@@ -8,10 +8,10 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 Below are samples of my personal and professional projects😃
 
 ## Projects
-#### 1. [Operations Dashboard](https://imgur.com/a/swxLXCG)
+#### 1. [Operations Dashboard](https://i.imgur.com/wgolhRc.png)
 * Sample dashboard to visualize invoice details
 
-<img srchttps://imgur.com/a/swxLXCG" width="712" height="482">  
+<img src:"https://i.imgur.com/wgolhRc.png" width="712" height="482">  
 
 *Tools*: Excel
   
