@@ -11,7 +11,7 @@ Below are samples of my personal and professional projects😃
 #### 1. [Occupation Projection Dashboard](https://public.tableau.com/app/profile/leo7559/viz/BLS-OccupationProjection2022-2032/Dashboard2?publish=yes)
 * Dashboard to visualize different occupations and wages
 
-<img src="https://imgur.com/a/o1eq5hd" width="712" height="482">  
+<img src="https://i.imgur.com/TbXtZRt.png" width="712" height="482">  
 
 *Tools*: Tableau, Excel
   
