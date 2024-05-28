@@ -8,12 +8,12 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/leoykim/)!
 Below are samples of my personal and professional projects😃
 
 ## Projects
-#### 1. [Operations Dashboard](https://i.imgur.com/wgolhRc.png)
-* Sample dashboard to visualize invoice details
+#### 1. [Occupation Projection Dashboard](https://public.tableau.com/app/profile/leo7559/viz/BLS-OccupationProjection2022-2032/Dashboard2?publish=yes)
+* Dashboard to visualize different occupations and wages
 
-<img src="https://i.imgur.com/wgolhRc.png" width="712" height="482">  
+<img src="https://imgur.com/a/o1eq5hd" width="712" height="482">  
 
-*Tools*: Excel
+*Tools*: Tableau, Excel
   
 <br/>  
 
